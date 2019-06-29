@@ -455,7 +455,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="copytext">&copy; 2018. All rights reserved</div>
+                    <div class="copytext">&copy; All rights reserved</div>
                 </div>
             </div>
             <!--.row-->
